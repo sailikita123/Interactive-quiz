@@ -24,11 +24,7 @@ git clone https://github.com/sailikita123/interactive-quiz.git
 cd interactive-quiz
 ```
 
-Open `index.html` in your browser.
-
-## 📸 Screenshots
-
-Add screenshots of the quiz interface and results screen.
+Open `index.html` in your browser
 
 ## 🎯 Future Improvements
 
